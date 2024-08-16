@@ -1,8 +1,8 @@
-# Image Gallery
+# Contact Manager
 
 ## Descripción
 
-Esta aplicación permite a los usuarios explorar, buscar y descargar imágenes de alta calidad directamente desde Unsplash. Con una interfaz intuitiva y responsive, los usuarios pueden buscar imágenes en tiempo real, navegar a través de miles de fotos utilizando la paginación, y descargar sus favoritas con un solo clic. La aplicación también cuenta con funcionalidades interactivas, como mostrar el nombre y autor de la imagen al pasar el cursor sobre ella.
+Esta aplicación de gestión de contactos permite a los usuarios agregar, editar y eliminar contactos de manera sencilla a través de un formulario intuitivo. Los datos se almacenan de forma persistente en localStorage, asegurando que los contactos permanezcan disponibles incluso al cerrar y volver a abrir la aplicación. Además, cuenta con una interfaz limpia y amigable, diseñada para facilitar la navegación y mejorar la experiencia del usuario. También incluye la opción de alternar entre el modo oscuro y claro, adaptándose a las preferencias visuales de cada usuario para una mejor usabilidad.
 
 ## Tabla de Contenidos
 
